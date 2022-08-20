@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FacebookLoginusingFirebaseandviewprofile</string>
+
+
+
+    <string name="facebook_app_id">1129062324312683</string>
+    <string name="fb_login_protocol_scheme">fb1129062324312683</string>
+    <string name="facebook_client_token">0520d6c2629291fc4985298b2a2e0363</string>
+
+
+
+</resources>
